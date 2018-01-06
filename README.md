@@ -1,4 +1,7 @@
-# Your StdLib Slack App
+# GentleBot
+
+Original Build Instructions:
+https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358
 
 Welcome to your StdLib Slack template!
 
@@ -358,4 +361,3 @@ multiple teams.
 
 We hope this has served as a welcoming introduction to your
 Slack App project scaffold on [StdLib](https://stdlib.com) --- happy building!
-# gentlebot
